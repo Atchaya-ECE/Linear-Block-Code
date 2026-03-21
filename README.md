@@ -1,6 +1,7 @@
 ## Name : V.Atchaya
 ## Reg.no : 212224060031
-# Linear-Block-Code
+## Experiment no : 6
+## Experiment name : Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
